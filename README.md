@@ -9,7 +9,7 @@ This repository holds the solutions for Assignment 2 of the DCIT 318 course, foc
 ## Prerequisites
 
 To build and run these programs, you will need the following tools installed on your local machine:
-* .NET SDK (9.0)
+* .NET SDK (6.0 or later)
 * A code editor or IDE (e.g., Visual Studio, VS Code)
 * Git for version control
 
