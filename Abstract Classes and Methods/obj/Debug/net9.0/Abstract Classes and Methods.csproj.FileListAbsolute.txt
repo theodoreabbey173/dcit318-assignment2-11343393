@@ -1,0 +1,15 @@
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.exe
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.deps.json
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.runtimeconfig.json
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.pdb
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.AssemblyInfoInputs.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.AssemblyInfo.cs
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.sourcelink.json
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\refint\Abstract Classes and Methods.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.pdb
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.genruntimeconfig.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment2-11343393\Abstract Classes and Methods\obj\Debug\net9.0\ref\Abstract Classes and Methods.dll
